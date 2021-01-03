@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 from contextlib import contextmanager
 try:
     from urllib import urlencode

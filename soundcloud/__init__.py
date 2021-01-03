@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 """Python Soundcloud API Wrapper."""
 
 __version__ = '0.5.0'

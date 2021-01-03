@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import soundcloud
 
 from soundcloud.tests.utils import MockResponse

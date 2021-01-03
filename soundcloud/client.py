@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 from functools import partial
 try:
     from urllib import urlencode
